@@ -1,70 +1,43 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Landing Page de Vendas com VSL responsiva em React.js e Tailwind CSS
 
-## Available Scripts
+Esta é uma Landing Page de Vendas desenvolvida utilizando React.js e Tailwind CSS. A página é projetada para apresentar um VSL (Video Sales Letter) atraente e eficaz, destinado a promover um produto ou serviço específico.
 
-In the project directory, you can run:
+# Tecnologias Utilizadas
 
-### `yarn start`
+- React.js: Uma biblioteca JavaScript de código aberto para criar interfaces de usuário. Fácil de usar e altamente modular, o React permite a criação de componentes reutilizáveis que facilitam a construção de interfaces complexas.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Tailwind CSS: Um framework CSS utilitário que oferece classes pré-definidas para estilização rápida e eficiente. Com o Tailwind, é possível criar layouts responsivos e estilizados com pouco esforço.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Funcionalidades
 
-### `yarn test`
+- **VSL Atraente:** A página inclui um VSL (Video Sales Letter) que é exibido de forma proeminente aos visitantes. O vídeo pode ser incorporado diretamente da plataforma de hospedagem escolhida (por exemplo, YouTube ou Vimeo).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Apresentação do Produto/Serviço:** A Landing Page oferece uma seção que destaca os principais benefícios e características do produto ou serviço. Isso permite que os visitantes compreendam rapidamente o valor que estão obtendo.
 
-### `yarn build`
+- **Depoimentos e Prova Social:** Depoimentos de clientes satisfeitos e outras formas de prova social são exibidos para aumentar a confiança dos visitantes na qualidade do produto ou serviço.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Chamada para Ação (CTA):** A página inclui uma CTA clara e convincente que incentiva os visitantes a realizar uma ação específica, como fazer uma compra, se inscrever em uma lista de e-mails ou agendar uma demonstração.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **Design Responsivo:** Utilizando as classes do Tailwind CSS, a página é responsiva e se adapta bem a diferentes tamanhos de tela, desde dispositivos móveis até desktops.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Como Usar
 
-### `yarn eject`
+- Clone este repositório: git clone https://github.com/seu-usuario/nome-do-repositorio.git.
+- Navegue até o diretório do projeto: cd nome-do-repositorio.
+- Instale as dependências: npm install ou yarn install.
+- Inicie a aplicação: npm start ou yarn start.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Personalização
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Para alterar o conteúdo do VSL, substitua a URL do vídeo no componente apropriado.
+- Personalize as seções e o conteúdo da página editando os componentes relevantes em src/components.
+- Para estilização adicional, modifique os arquivos em src/styles.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+# Contribuição
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- Contribuições são bem-vindas! Sinta-se à vontade para abrir um Pull Request com melhorias, correções de bugs ou novas funcionalidades.
 
-## Learn More
+# Licença
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
