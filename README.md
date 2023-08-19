@@ -3,11 +3,6 @@
 
 Esta é uma Landing Page de Vendas desenvolvida utilizando React.js e Tailwind CSS. A página é projetada para apresentar um VSL (Video Sales Letter) atraente e eficaz, destinado a promover um produto ou serviço específico.
 
-## Screenshots
-
-![Screenshot](https://i.imgur.com/XVUwpEj.png)
-![Screenshot](https://i.imgur.com/SdINNfR.png)
-
 # Tecnologias Utilizadas
 
 - React.js: Uma biblioteca JavaScript de código aberto para criar interfaces de usuário. Fácil de usar e altamente modular, o React permite a criação de componentes reutilizáveis que facilitam a construção de interfaces complexas.
@@ -25,6 +20,11 @@ Esta é uma Landing Page de Vendas desenvolvida utilizando React.js e Tailwind C
 - **Chamada para Ação (CTA):** A página inclui uma CTA clara e convincente que incentiva os visitantes a realizar uma ação específica, como fazer uma compra, se inscrever em uma lista de e-mails ou agendar uma demonstração.
 
 - **Design Responsivo:** Utilizando as classes do Tailwind CSS, a página é responsiva e se adapta bem a diferentes tamanhos de tela, desde dispositivos móveis até desktops.
+
+## Screenshots
+
+![Screenshot](https://i.imgur.com/XVUwpEj.png)
+![Screenshot](https://i.imgur.com/SdINNfR.png)
 
 # Como Usar
 
