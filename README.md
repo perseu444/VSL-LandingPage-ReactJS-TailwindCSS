@@ -24,7 +24,6 @@ Esta é uma Landing Page de Vendas desenvolvida utilizando React.js e Tailwind C
 ## Screenshots
 
 ![Screenshot](https://i.imgur.com/XVUwpEj.png)
-![Screenshot](https://i.imgur.com/SdINNfR.png)
 
 # Como Usar
 
